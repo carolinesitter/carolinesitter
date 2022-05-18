@@ -13,9 +13,15 @@ Sharing updates on [Linkedin](https://www.linkedin.com/in/carolinesitter/)
 Creating new art on [CandyFangz](https://www.candyfangz.com/)
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinesitter&repo=ArtTown&theme=gotham&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinesitter&repo=ArtTown&theme=gotham&show_owner=true)
+
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesitter&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesitter&theme=gotham&layout=compact"
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolinesitter&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=carolinesitter&theme=gotham&date_format=M%20j%5B%2C%20Y%5D"
+</div>
+
