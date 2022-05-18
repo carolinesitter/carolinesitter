@@ -13,7 +13,9 @@ Sharing updates on [Linkedin](https://www.linkedin.com/in/carolinesitter/)
 Creating new art on [CandyFangz](https://www.candyfangz.com/)
 
 ## Projects
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinesitter&repo=ArtTown&theme=gotham&show_owner=true)
+<a href="https://github.com/carolinesitter/ArtTown">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolinesitter&repo=ArtTown&theme=gotham&show_owner=true">
+</a>
 
 
 ## Stats
