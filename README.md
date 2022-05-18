@@ -19,11 +19,11 @@ Creating new art on [CandyFangz](https://www.candyfangz.com/)
 
 
 ## Stats
-<div>
+<a href="https://github.com/carolinesitter/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesitter&theme=gotham&layout=compact"
-</div>
+</a>
 
-<div>
+<a href="https://github.com/carolinesitter/">
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=carolinesitter&theme=gotham&date_format=M%20j%5B%2C%20Y%5D"
-</div>
+</a>
 
